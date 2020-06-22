@@ -57,6 +57,12 @@ get_data <- function(site){
   return(data)
 }
 
+#Data manipulation
 data <- get_data(base_site)
+data$price <- as.integer(gsub(" ","", data$price))
+data$voivodeship <- substr(data$voivodeship,2,nchar(data$voivodeship)-1)
+data$mileage <- gsub(" ","", data$mileage)
+data$mileage <- as.integer(gsub("km","", data$mileage))
+data$age <- 2020-as.integer(data$year_of_production)
 
 
