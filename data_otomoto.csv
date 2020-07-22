@@ -1,0 +1,996 @@
+"","price","city_name","voivodeship","year_of_production","mileage","age"
+"1",9500,"Banino","Pomorskie","2000 ",29000,20
+"2",9499,"Wrocław","Dolnośląskie","2019 ",1,1
+"3",10500,"Tłuszcz","Mazowieckie","1999 ",54485,21
+"4",10900,"Kraków","Małopolskie","2013 ",12000,7
+"5",5099,"Katowice","Śląskie","2020 ",1,0
+"6",6690,"Rzeszów","Podkarpackie","2019 ",8250,1
+"7",13900,"Sulęcin","Lubuskie","2019 ",1,1
+"8",17990,"Tarnów","Małopolskie","2019 ",1,1
+"9",17900,"Tarnów","Małopolskie","2019 ",1,1
+"10",18900,"Tarnów","Małopolskie","2019 ",1,1
+"11",19900,"Tarnów","Małopolskie","2019 ",1,1
+"12",5850,"Ścinawa","Dolnośląskie","2009 ",23000,11
+"13",10000,"Piekary Śląskie","Śląskie","2010 ",6100,10
+"14",3500,"Wielogóra","Mazowieckie","1997 ",12800,23
+"15",5498,"Katowice","Śląskie","2019 ",1,1
+"16",15500,"Warszawa","Mazowieckie","2019 ",1,1
+"17",4799,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"18",5799,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"19",13900,"Gdańsk","Pomorskie","2001 ",29517,19
+"20",5899,"Wrocław","Dolnośląskie","2019 ",1,1
+"21",13900,"Brodnica","Kujawsko-pomorskie","2002 ",25770,18
+"22",4300,"Miejska Górka","Wielkopolskie","2000 ",45000,20
+"23",7800,"Tarnobrzeg","Podkarpackie","2011 ",11360,9
+"24",4799,"Ciechanów","Mazowieckie","2019 ",1,1
+"25",12900,"Kraków","Małopolskie","2019 ",1,1
+"26",20900,"Radom","Mazowieckie","2020 ",1,0
+"27",12700,"Bogumiłowice","Małopolskie","2006 ",24000,14
+"28",2800,"Rzeczyca Ziemiańska","Lubelskie","2006 ",9800,14
+"29",10200,"Ruda Śląska","Śląskie","2020 ",1,0
+"30",4999,"Tarnowskie Góry","Śląskie","2017 ",1,3
+"31",5299,"Tarnowskie Góry","Śląskie","2019 ",1,1
+"32",6999,"Tarnowskie Góry","Śląskie","2018 ",1,2
+"33",14500,"Warszawa","Mazowieckie","2019 ",1,1
+"34",17990,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"35",7900,"Gostyń","Śląskie","2001 ",55000,19
+"36",13499,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"37",16990,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"38",3850,"Poznań","Wielkopolskie","2006 ",47621,14
+"39",11900,"Ostrołęka","Mazowieckie","2016 ",9000,4
+"40",11500,"Ostrołęka","Mazowieckie","2014 ",9672,6
+"41",17900,"Łódź","Łódzkie","2018 ",1,2
+"42",12990,"Jasło","Podkarpackie","2018 ",1,2
+"43",7300,"Warta","Łódzkie","2013 ",9900,7
+"44",7490,"Zamość","Lubelskie","2018 ",6600,2
+"45",10999,"Kokoszkowy","Pomorskie","1999 ",5996,21
+"46",13500,"Piekary Śląskie","Śląskie","2000 ",19167,20
+"47",16999,"Rzeszów","Podkarpackie","2019 ",1,1
+"48",13500,"Rzeszów","Podkarpackie","2019 ",1,1
+"49",9599,"Częstochowa","Śląskie","2020 ",1,0
+"50",5699,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"51",7600,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"52",11499,"Tuplice","Lubuskie","2017 ",5000,3
+"53",10499,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"54",14900,"Augustów","Podlaskie","2017 ",7000,3
+"55",14990,"Gorzów Wielkopolski","Lubuskie","2019 ",1,1
+"56",4499,"Żurawice","Dolnośląskie","2018 ",126,2
+"57",9900,"Skórcz","Pomorskie","1998 ",34000,22
+"58",13700,"Tworóg","Śląskie","2018 ",475,2
+"59",5999,"Katowice","Śląskie","2017 ",1,3
+"60",5299,"Katowice","Śląskie","2019 ",1,1
+"61",13500,"Warszawa","Mazowieckie","2019 ",1,1
+"62",13500,"Warszawa","Mazowieckie","2019 ",1,1
+"63",16999,"Warszawa","Mazowieckie","2019 ",1,1
+"64",8400,"Katowice","Śląskie","2020 ",1,0
+"65",6700,"Katowice","Śląskie","2017 ",1,3
+"66",6999,"Katowice","Śląskie","2018 ",1,2
+"67",7798,"Katowice","Śląskie","2019 ",1,1
+"68",6999,"Katowice","Śląskie","2018 ",600,2
+"69",14999,"Radom","Mazowieckie","2020 ",1400,0
+"70",4900,"Jazowsko","Małopolskie","1999 ",51000,21
+"71",8599,"Katowice","Śląskie","2018 ",1,2
+"72",10500,"Tarnowskie Góry","Śląskie","2013 ",40000,7
+"73",10800,"Tarnowskie Góry","Śląskie","2013 ",40000,7
+"74",5499,"Radom","Mazowieckie","2004 ",28000,16
+"75",4300,"Wielogóra","Mazowieckie","1996 ",4400,24
+"76",8900,"Kielce","Świętokrzyskie","2020 ",1,0
+"77",8900,"Kielce","Świętokrzyskie","2020 ",1,0
+"78",3900,"Pajęczno","Łódzkie","1997 ",9500,23
+"79",8500,"Marki","Mazowieckie","2019 ",1,1
+"80",8900,"Kielce","Świętokrzyskie","2020 ",1,0
+"81",9199,"Kielce","Świętokrzyskie","2020 ",1,0
+"82",6500,"Bydgoszcz","Kujawsko-pomorskie","2016 ",1650,4
+"83",7999,"Kaczkowo","Wielkopolskie","1998 ",16000,22
+"84",12450,"Dąbrowa Górnicza","Śląskie","2002 ",34000,18
+"85",6799,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"86",9000,"Golub-Dobrzyń","Kujawsko-pomorskie","2012 ",22500,8
+"87",6500,"Katowice","Śląskie","2009 ",8791,11
+"88",11900,"Dąbrowa Górnicza","Śląskie","1999 ",25000,21
+"89",9000,"Chojnice","Pomorskie","2017 ",9140,3
+"90",21400,"Kłodzko","Dolnośląskie","2019 ",1,1
+"91",29200,"Kłodzko","Dolnośląskie","2017 ",1,3
+"92",1400,"Jaworznik","Śląskie","2014 ",1000,6
+"93",12800,"Wiskitki","Mazowieckie","2007 ",22300,13
+"94",8100,"Godziesze Wielkie","Wielkopolskie","1962 ",24300,58
+"95",2699,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"96",2399,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"97",5798,"Gliwice","Śląskie","2019 ",1,1
+"98",13600,"Dąbrowa Górnicza","Śląskie","2002 ",30000,18
+"99",7200,"Warszawa","Mazowieckie","2019 ",5000,1
+"100",8799,"Ruda Śląska","Śląskie","2019 ",1,1
+"101",9190,"Grodzisk Mazowiecki","Mazowieckie","2019 ",1,1
+"102",15900,"Warszawa","Mazowieckie","2020 ",1,0
+"103",16800,"Warszawa","Mazowieckie","2019 ",907,1
+"104",14600,"Warszawa","Mazowieckie","2019 ",1,1
+"105",5299,"Tarnowskie Góry","Śląskie","2019 ",1,1
+"106",17700,"Warszawa","Mazowieckie","2020 ",1,0
+"107",4300,"Konin","Wielkopolskie","2003 ",21200,17
+"108",16900,"Warszawa","Mazowieckie","2020 ",1,0
+"109",8499,"Ciechanów","Mazowieckie","2019 ",1,1
+"110",8900,"Marki","Mazowieckie","2020 ",1,0
+"111",16499,"Katowice","Śląskie","2019 ",1,1
+"112",9999,"Katowice","Śląskie","2019 ",1,1
+"113",4800,"Świętochłowice","Śląskie","2016 ",237,4
+"114",8500,"Łazy","Mazowieckie","2018 ",2300,2
+"115",8699,"Barlinek","Zachodniopomorskie","2020 ",1,0
+"116",5299,"Barlinek","Zachodniopomorskie","2019 ",1,1
+"117",5999,"Barlinek","Zachodniopomorskie","2020 ",1,0
+"118",5999,"Barlinek","Zachodniopomorskie","2019 ",1,1
+"119",13500,"Tarnów","Małopolskie","2017 ",8100,3
+"120",18499,"Katowice","Śląskie","2019 ",1,1
+"121",7999,"Ruda Śląska","Śląskie","2019 ",1,1
+"122",12999,"Katowice","Śląskie","2019 ",1,1
+"123",18499,"Katowice","Śląskie","2019 ",1,1
+"124",12999,"Katowice","Śląskie","2019 ",1,1
+"125",7500,"Raszyn","Mazowieckie","2011 ",12844,9
+"126",11900,"Gdańsk","Pomorskie","2003 ",12563,17
+"127",8800,"Legnica","Dolnośląskie","2019 ",400,1
+"128",5699,"Ruda Śląska","Śląskie","2019 ",1,1
+"129",5499,"Ruda Śląska","Śląskie","2019 ",1,1
+"130",21900,"Kraków","Małopolskie","2019 ",1,1
+"131",9200,"Kraków","Małopolskie","2020 ",1,0
+"132",10500,"Strzyżów","Podkarpackie","2014 ",24421,6
+"133",9000,"Płock","Mazowieckie","2010 ",21000,10
+"134",8288,"Siedlce","Mazowieckie","2018 ",1,2
+"135",13000,"Dąbrowa Górnicza","Śląskie","2000 ",9400,20
+"136",12700,"Dąbrowa Górnicza","Śląskie","2000 ",33000,20
+"137",9900,"Rzeszów","Podkarpackie","2015 ",13000,5
+"138",6500,"Gorzów Wielkopolski","Lubuskie","1976 ",1111111,44
+"139",17700,"Poznań","Wielkopolskie","2020 ",1,0
+"140",5300,"Piaski","Wielkopolskie","2019 ",1,1
+"141",9999,"Lublin","Lubelskie","2020 ",1,0
+"142",6999,"Piaski","Wielkopolskie","2019 ",1,1
+"143",10999,"Piaski","Wielkopolskie","2020 ",1,0
+"144",6499,"Piaski","Wielkopolskie","2019 ",1,1
+"145",6599,"Piaski","Wielkopolskie","2019 ",1,1
+"146",10799,"Piaski","Wielkopolskie","2019 ",1,1
+"147",9199,"Piaski","Wielkopolskie","2020 ",1,0
+"148",6000,"Kleosin","Podlaskie","2005 ",6101,15
+"149",3499,"Ruda Śląska","Śląskie","2019 ",1,1
+"150",7199,"Gliwice","Śląskie","2019 ",1,1
+"151",19900,"Gliwice","Śląskie","2018 ",1,2
+"152",2999,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"153",2299,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"154",2699,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"155",18650,"Szczecin","Zachodniopomorskie","2020 ",1,0
+"156",6800,"Stoczek Łukowski","Lubelskie","1999 ",16880,21
+"157",11500,"Piaski","Wielkopolskie","1998 ",4843,22
+"158",7000,"Grodków","Opolskie","2010 ",12042,10
+"159",12300,"Mizerów","Śląskie","2004 ",14000,16
+"160",6099,"Ruda Śląska","Śląskie","2020 ",1,0
+"161",10999,"Dulowa","Małopolskie","2020 ",1,0
+"162",15499,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"163",7500,"Knurów","Śląskie","2019 ",3500,1
+"164",9399,"Pułtusk","Mazowieckie","2013 ",25500,7
+"165",9840,"Pułtusk","Mazowieckie","2013 ",11500,7
+"166",4000,"Rudnik Pierwszy","Lubelskie","2000 ",900,20
+"167",8999,"Gliwice","Śląskie","2020 ",1,0
+"168",8799,"Gliwice","Śląskie","2020 ",1,0
+"169",7800,"Gliwice","Śląskie","2018 ",1,2
+"170",17800,"Gliwice","Śląskie","2018 ",1,2
+"171",8900,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"172",5999,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"173",10799,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"174",1849,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"175",7990,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"176",9799,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"177",9199,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"178",5400,"Zabrze","Śląskie","1997 ",7000,23
+"179",14099,"Wrocław","Dolnośląskie","2018 ",1,2
+"180",11500,"Bilcza","Świętokrzyskie","2001 ",14269,19
+"181",6999,"Gliwice","Śląskie","2019 ",1,1
+"182",11300,"Poznań","Wielkopolskie","2019 ",1,1
+"183",17700,"Warszawa","Mazowieckie","2020 ",1,0
+"184",3499,"Gliwice","Śląskie","2019 ",1,1
+"185",4199,"Gliwice","Śląskie","2020 ",1,0
+"186",11900,"Piaseczno","Mazowieckie","2020 ",1,0
+"187",10900,"Chabielice","Łódzkie","2015 ",17600,5
+"188",8600,"Wojakowa","Małopolskie","1999 ",40000,21
+"189",11249,"Dulowa","Małopolskie","2019 ",1,1
+"190",2500,"Swadzim","Wielkopolskie","2019 ",2095,1
+"191",21900,"Warszawa","Mazowieckie","2020 ",1,0
+"192",6950,"Gołańcz","Wielkopolskie","2008 ",33000,12
+"193",9700,"Łódź","Łódzkie","2007 ",18600,13
+"194",9999,"Radom","Mazowieckie","2009 ",21000,11
+"195",12500,"Bolesławiec","Dolnośląskie","2020 ",1700,0
+"196",2799,"Lublin","Lubelskie","2020 ",1,0
+"197",11000,"Oświęcim","Małopolskie","2000 ",38500,20
+"198",10999,"Grudziądz","Kujawsko-pomorskie","2020 ",1,0
+"199",3399,"Gliwice","Śląskie","2019 ",1,1
+"200",11900,"Dobrzewino","Pomorskie","2007 ",34000,13
+"201",10799,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"202",9199,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"203",5599,"Dulowa","Małopolskie","2019 ",1,1
+"204",6799,"Dulowa","Małopolskie","2019 ",1,1
+"205",7699,"Dulowa","Małopolskie","2019 ",1,1
+"206",15500,"Gdańsk","Pomorskie","2019 ",1,1
+"207",18200,"Łódź","Łódzkie","2020 ",1,0
+"208",11900,"Katowice","Śląskie","1999 ",37700,21
+"209",2399,"Wrocław","Dolnośląskie","2020 ",1,0
+"210",3584,"Wrocław","Dolnośląskie","2019 ",1,1
+"211",4500,"Jelenia Góra","Dolnośląskie","1999 ",19110,21
+"212",7500,"Warszawa","Mazowieckie","2010 ",31550,10
+"213",7900,"Łuków","Lubelskie","2015 ",30232,5
+"214",17900,"Kraków","Małopolskie","2020 ",1,0
+"215",11500,"Rybnik","Śląskie","2015 ",26992,5
+"216",17990,"Konstancin-Jeziorna","Mazowieckie","2019 ",1,1
+"217",4500,"Strzeleczki","Opolskie","1996 ",13600,24
+"218",7500,"Łęczna","Lubelskie","2018 ",2500,2
+"219",8500,"Jedlicze","Podkarpackie","1998 ",22870,22
+"220",9900,"Aleksandrów Łódzki","Łódzkie","2008 ",59825,12
+"221",17700,"Łódź","Łódzkie","2020 ",1,0
+"222",6799,"Barlinek","Zachodniopomorskie","2018 ",1,2
+"223",11999,"Barlinek","Zachodniopomorskie","2018 ",1,2
+"224",12290,"Żyrardów","Mazowieckie","2016 ",33000,4
+"225",6900,"Barlinek","Zachodniopomorskie","2009 ",29838,11
+"226",7990,"Żyrardów","Mazowieckie","2008 ",27000,12
+"227",6599,"Barlinek","Zachodniopomorskie","2019 ",1,1
+"228",6900,"Izabelin C","Mazowieckie","2009 ",34000,11
+"229",7500,"Borek","Wielkopolskie","2013 ",30200,7
+"230",4999,"Radom","Mazowieckie","2006 ",10000,14
+"231",5999,"Radom","Mazowieckie","2006 ",16000,14
+"232",10799,"Ruda Śląska","Śląskie","2019 ",1,1
+"233",18700,"Tychy","Śląskie","2020 ",1,0
+"234",2099,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"235",7999,"Radom","Mazowieckie","2008 ",22000,12
+"236",7999,"Radom","Mazowieckie","2008 ",13000,12
+"237",4500,"Pilawa","Mazowieckie","2015 ",3200,5
+"238",6400,"Gdańsk","Pomorskie","2015 ",4046,5
+"239",16900,"Łódź","Łódzkie","2020 ",1,0
+"240",14990,"Łódź","Łódzkie","2019 ",1,1
+"241",13000,"Ostrołęka","Mazowieckie","2017 ",15000,3
+"242",5999,"Kozienice","Mazowieckie","2019 ",1,1
+"243",15000,"Dąbrowa Górnicza","Śląskie","2001 ",19500,19
+"244",8990,"Ruda Śląska","Śląskie","2019 ",1,1
+"245",4500,"Lubsza","Śląskie","1996 ",20227,24
+"246",8900,"Milanówek","Mazowieckie","1953 ",1578,67
+"247",6900,"Straszów","Łódzkie","2012 ",30500,8
+"248",3999,"Rydułtowy","Śląskie","2020 ",1,0
+"249",11500,"Gdańsk","Pomorskie","2001 ",22968,19
+"250",10999,"Ruda Śląska","Śląskie","2020 ",1,0
+"251",4499,"Rzeszów","Podkarpackie","2017 ",1,3
+"252",8999,"Rzeszów","Podkarpackie","2018 ",1,2
+"253",7990,"Wrocław","Dolnośląskie","2019 ",1,1
+"254",12200,"Krosno","Podkarpackie","2015 ",3900,5
+"255",17712,"Grzędy","Mazowieckie","2019 ",3523,1
+"256",8499,"Lutoryż","Podkarpackie","2008 ",30000,12
+"257",14600,"Krzyż Wielkopolski","Wielkopolskie","2006 ",52,14
+"258",8400,"Ruda Śląska","Śląskie","2020 ",1,0
+"259",18700,"Gdańsk","Pomorskie","2020 ",1,0
+"260",17000,"Dąbrowa Górnicza","Śląskie","2003 ",6000,17
+"261",11900,"Piaski","Wielkopolskie","2016 ",13777,4
+"262",4500,"Piaski","Wielkopolskie","1997 ",16081,23
+"263",5800,"Piaski","Wielkopolskie","2019 ",1,1
+"264",12500,"Gorlice","Małopolskie","2016 ",12900,4
+"265",8299,"Ruda Śląska","Śląskie","2019 ",1,1
+"266",13900,"Kraków","Małopolskie","2019 ",1,1
+"267",3799,"Wrocław","Dolnośląskie","2020 ",1,0
+"268",9499,"Wrocław","Dolnośląskie","2020 ",1,0
+"269",7999,"Międzyrzec Podlaski","Lubelskie","2010 ",27050,10
+"270",9899,"Wrocław","Dolnośląskie","2020 ",1,0
+"271",7990,"Wrocław","Dolnośląskie","2019 ",1,1
+"272",5900,"Wrocław","Dolnośląskie","2020 ",1,0
+"273",5299,"Wrocław","Dolnośląskie","2019 ",1,1
+"274",5990,"Wrocław","Dolnośląskie","2019 ",1,1
+"275",2174,"Wrocław","Dolnośląskie","2019 ",1,1
+"276",8499,"Ruda Śląska","Śląskie","2020 ",1,0
+"277",8800,"Przeźmierowo","Wielkopolskie","2019 ",1,1
+"278",16990,"Przeźmierowo","Wielkopolskie","2019 ",1,1
+"279",7800,"Przeźmierowo","Wielkopolskie","2019 ",1,1
+"280",6499,"Piaski","Wielkopolskie","2020 ",1,0
+"281",7990,"Gdańsk","Pomorskie","2000 ",41342,20
+"282",4700,"Gdańsk","Pomorskie","1998 ",54385,22
+"283",9990,"Gdańsk","Pomorskie","2014 ",34436,6
+"284",4300,"Kamienna Wola","Mazowieckie","1997 ",37000,23
+"285",15500,"Kraków","Małopolskie","2020 ",1,0
+"286",3990,"Gdańsk","Pomorskie","1997 ",63862,23
+"287",7999,"Wrocław","Dolnośląskie","2019 ",1,1
+"288",8900,"Bodzentyn","Świętokrzyskie","2018 ",1730,2
+"289",4400,"Rzeszów","Podkarpackie","1998 ",40000,22
+"290",9100,"Gliwice","Śląskie","2020 ",1,0
+"291",5999,"Radom","Mazowieckie","1998 ",10000,22
+"292",10699,"Radom","Mazowieckie","2000 ",17000,20
+"293",10299,"Gliwice","Śląskie","2019 ",1,1
+"294",11499,"Warszawa","Mazowieckie","2018 ",2,2
+"295",3299,"Rydułtowy","Śląskie","2020 ",1,0
+"296",4199,"Rydułtowy","Śląskie","2020 ",1,0
+"297",5500,"Grodzisk Mazowiecki","Mazowieckie","2019 ",1,1
+"298",21900,"Łódź","Łódzkie","2019 ",1,1
+"299",5900,"Elbląg","Warmińsko-mazurskie","2007 ",21000,13
+"300",4200,"Gołańcz","Wielkopolskie","1990 ",31390,30
+"301",9999,"Radom","Mazowieckie","2009 ",21000,11
+"302",6199,"Częstochowa","Śląskie","2020 ",1,0
+"303",5999,"Radom","Mazowieckie","2011 ",17000,9
+"304",11900,"Radom","Mazowieckie","2020 ",1,0
+"305",6900,"Lidzbark Warmiński","Warmińsko-mazurskie","2002 ",12600,18
+"306",18700,"Wrocław","Dolnośląskie","2020 ",1,0
+"307",18700,"Wrocław","Dolnośląskie","2020 ",1,0
+"308",7500,"Dąbrowa Górnicza","Śląskie","1998 ",19000,22
+"309",14500,"Gdańsk","Pomorskie","2019 ",1,1
+"310",16700,"Gostyń","Śląskie","2020 ",1,0
+"311",12900,"Gostyń","Śląskie","2019 ",1000,1
+"312",9199,"Częstochowa","Śląskie","2020 ",1,0
+"313",10500,"Dąbrowa Górnicza","Śląskie","2002 ",19000,18
+"314",11900,"Dąbrowa Górnicza","Śląskie","1999 ",25000,21
+"315",16000,"Dąbrowa Górnicza","Śląskie","2001 ",9500,19
+"316",8888,"Kokoszkowy","Pomorskie","1998 ",8952,22
+"317",9900,"Opole","Opolskie","2012 ",5900,8
+"318",7800,"Strzeleczki","Opolskie","1998 ",5500,22
+"319",6999,"Połęczyno","Pomorskie","1999 ",9000,21
+"320",6900,"Olsztynek","Warmińsko-mazurskie","2014 ",17689,6
+"321",10499,"Katowice","Śląskie","2019 ",1,1
+"322",6900,"Łódź","Łódzkie","2016 ",8690,4
+"323",7800,"Strzeleczki","Opolskie","1998 ",12900,22
+"324",8900,"Bolesławiec","Dolnośląskie","2013 ",17668,7
+"325",10900,"Dobrodzień","Opolskie","2000 ",17000,20
+"326",7200,"Ruda Śląska","Śląskie","2019 ",1,1
+"327",8400,"Ruda Śląska","Śląskie","2019 ",1,1
+"328",5300,"Piaski","Wielkopolskie","2019 ",1,1
+"329",8900,"Grębów","Podkarpackie","1999 ",55958,21
+"330",5999,"Piaski","Wielkopolskie","2019 ",1,1
+"331",5900,"Piaski","Wielkopolskie","2007 ",35115,13
+"332",5900,"Piaski","Wielkopolskie","2010 ",36334,10
+"333",6200,"Piaski","Wielkopolskie","2018 ",1,2
+"334",4600,"Katowice","Śląskie","2018 ",226,2
+"335",4650,"Elbląg","Warmińsko-mazurskie","2007 ",14500,13
+"336",8799,"Kraków","Małopolskie","2019 ",1,1
+"337",8600,"Toruń","Kujawsko-pomorskie","2020 ",1,0
+"338",12300,"Dąbrowa Górnicza","Śląskie","2001 ",15000,19
+"339",8990,"Rydułtowy","Śląskie","2020 ",1,0
+"340",8600,"Chojnice","Pomorskie","2011 ",14607,9
+"341",10199,"Rydułtowy","Śląskie","2020 ",1,0
+"342",14399,"Kielce","Świętokrzyskie","2003 ",20800,17
+"343",5099,"Katowice","Śląskie","2019 ",1,1
+"344",9200,"Kraków","Małopolskie","2020 ",1,0
+"345",14990,"Siedlce","Mazowieckie","2019 ",1,1
+"346",11500,"Poznań","Wielkopolskie","2007 ",14750,13
+"347",4200,"Radom","Mazowieckie","2000 ",34192,20
+"348",8900,"Piaseczno","Mazowieckie","2004 ",25650,16
+"349",6699,"Częstochowa","Śląskie","2019 ",1,1
+"350",17990,"Kraków","Małopolskie","2019 ",1,1
+"351",16990,"Kraków","Małopolskie","2019 ",1,1
+"352",9900,"Kozienice","Mazowieckie","2011 ",18000,9
+"353",6049,"Lidzbark Warmiński","Warmińsko-mazurskie","2019 ",1,1
+"354",5999,"Lidzbark Warmiński","Warmińsko-mazurskie","2019 ",1,1
+"355",12700,"Bogumiłowice","Małopolskie","2008 ",23000,12
+"356",20900,"Radom","Mazowieckie","2020 ",1,0
+"357",16000,"Dąbrowa Górnicza","Śląskie","2004 ",12000,16
+"358",7500,"Warszawa","Mazowieckie","2015 ",4900,5
+"359",10900,"Białaczów","Łódzkie","2001 ",10500,19
+"360",6700,"Charsznica","Małopolskie","2010 ",31000,10
+"361",8500,"Katowice","Śląskie","2019 ",1,1
+"362",14900,"Warszawa","Mazowieckie","2018 ",1553,2
+"363",11399,"Radom","Mazowieckie","2015 ",13000,5
+"364",2149,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"365",3199,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"366",2399,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"367",3199,"Ząbkowice Śląskie","Dolnośląskie","2020 ",1,0
+"368",5700,"Olszyny","Małopolskie","1998 ",24292,22
+"369",13500,"Gdańsk","Pomorskie","2019 ",1,1
+"370",15500,"Gdańsk","Pomorskie","2019 ",1,1
+"371",15500,"Gdańsk","Pomorskie","2019 ",1,1
+"372",13500,"Gdańsk","Pomorskie","2019 ",1,1
+"373",11900,"Białystok","Podlaskie","2016 ",21000,4
+"374",9999,"Kraków","Małopolskie","2017 ",1,3
+"375",7299,"Gostyń","Śląskie","2019 ",1,1
+"376",3999,"Poznań","Wielkopolskie","2010 ",7000,10
+"377",4799,"Poznań","Wielkopolskie","2004 ",24000,16
+"378",5999,"Gostyń","Śląskie","2020 ",1,0
+"379",10500,"Piła","Wielkopolskie","1980 ",6007,40
+"380",9900,"Poznań","Wielkopolskie","2017 ",10200,3
+"381",12400,"Siedlce","Mazowieckie","2020 ",1,0
+"382",15900,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"383",18700,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"384",12400,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"385",17700,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"386",2590,"Bodzentyn","Świętokrzyskie","1985 ",482,35
+"387",7200,"Szczecin","Zachodniopomorskie","2019 ",760,1
+"388",1999,"Czosnów","Mazowieckie","2020 ",1,0
+"389",5999,"Czosnów","Mazowieckie","2020 ",1,0
+"390",5999,"Czosnów","Mazowieckie","2019 ",1,1
+"391",10499,"Czosnów","Mazowieckie","2019 ",1,1
+"392",8999,"Czosnów","Mazowieckie","2019 ",1,1
+"393",10299,"Czosnów","Mazowieckie","2019 ",1,1
+"394",6999,"Czosnów","Mazowieckie","2019 ",1,1
+"395",4199,"Czosnów","Mazowieckie","2020 ",1,0
+"396",3999,"Żurawice","Dolnośląskie","2005 ",7000,15
+"397",8900,"Warszawa","Mazowieckie","2019 ",1,1
+"398",9000,"Warszawa","Mazowieckie","2020 ",1,0
+"399",11500,"Jasienica","Mazowieckie","2003 ",21000,17
+"400",5555,"Kokoszkowy","Pomorskie","1997 ",21123,23
+"401",8999,"Radom","Mazowieckie","2015 ",18000,5
+"402",9299,"Radom","Mazowieckie","2015 ",22000,5
+"403",11799,"Radom","Mazowieckie","2016 ",17000,4
+"404",7000,"Inowrocław","Kujawsko-pomorskie","1999 ",10600,21
+"405",5500,"Inowrocław","Kujawsko-pomorskie","1997 ",24250,23
+"406",13999,"Radom","Mazowieckie","2018 ",1400,2
+"407",5999,"Ruda Śląska","Śląskie","2020 ",1,0
+"408",14999,"Radom","Mazowieckie","2020 ",14000,0
+"409",9199,"Dulowa","Małopolskie","2019 ",1,1
+"410",11000,"Częstochowa","Śląskie","2019 ",1320,1
+"411",9100,"Warszawa","Mazowieckie","2019 ",100,1
+"412",5699,"Kraków","Małopolskie","2019 ",1,1
+"413",8999,"Iława","Warmińsko-mazurskie","2009 ",10400,11
+"414",4500,"Zalesice-Kolonia","Mazowieckie","2017 ",2700,3
+"415",7800,"Kraków","Małopolskie","2019 ",1,1
+"416",9299,"Rydułtowy","Śląskie","2019 ",1,1
+"417",5999,"Ruda Śląska","Śląskie","2019 ",1,1
+"418",7999,"Warszawa","Mazowieckie","2019 ",1,1
+"419",5599,"Katowice","Śląskie","2019 ",1,1
+"420",7999,"Radomsko","Łódzkie","2017 ",1,3
+"421",6299,"Radomsko","Łódzkie","2019 ",1,1
+"422",7299,"Radomsko","Łódzkie","2017 ",1,3
+"423",9299,"Radomsko","Łódzkie","2019 ",1,1
+"424",5999,"Radomsko","Łódzkie","2019 ",1,1
+"425",13500,"Rzeszów","Podkarpackie","2019 ",1,1
+"426",9700,"Żabno","Małopolskie","2001 ",19000,19
+"427",21900,"Piaseczno","Mazowieckie","2020 ",1,0
+"428",9199,"Dulowa","Małopolskie","2019 ",1,1
+"429",7879,"Radomsko","Łódzkie","2019 ",1,1
+"430",7999,"Kraków","Małopolskie","2019 ",1,1
+"431",7149,"Dulowa","Małopolskie","2019 ",1,1
+"432",14990,"Kraków","Małopolskie","2019 ",1,1
+"433",10999,"Ruda Śląska","Śląskie","2020 ",1,0
+"434",5800,"Skoczów","Śląskie","2019 ",1,1
+"435",6949,"Dulowa","Małopolskie","2019 ",1,1
+"436",7900,"Starogard Gdański","Pomorskie","2002 ",24473,18
+"437",5590,"Szynwałd","Małopolskie","2006 ",22000,14
+"438",6900,"Starogard Gdański","Pomorskie","2007 ",7602,13
+"439",7199,"Ruda Śląska","Śląskie","2019 ",1,1
+"440",6099,"Ruda Śląska","Śląskie","2020 ",1,0
+"441",3199,"Ciechanów","Mazowieckie","2015 ",1,5
+"442",21000,"Dąbrowa Górnicza","Śląskie","2008 ",13000,12
+"443",16400,"Dąbrowa Górnicza","Śląskie","2003 ",15000,17
+"444",17990,"Chorzów","Śląskie","2018 ",1,2
+"445",12300,"Poraj","Śląskie","2015 ",1300,5
+"446",13999,"Kokoszkowy","Pomorskie","2006 ",12123,14
+"447",6699,"Ciechanów","Mazowieckie","2019 ",1,1
+"448",7500,"Kiełczów","Dolnośląskie","2015 ",26000,5
+"449",16999,"Warszawa","Mazowieckie","2019 ",1,1
+"450",15500,"Warszawa","Mazowieckie","2019 ",1,1
+"451",6828,"Tarnowskie Góry","Śląskie","2017 ",1,3
+"452",6910,"Tarnowskie Góry","Śląskie","2017 ",1,3
+"453",9200,"Ruda Śląska","Śląskie","2020 ",1,0
+"454",9900,"Starogard Gdański","Pomorskie","2011 ",18000,9
+"455",9999,"Starogard Gdański","Pomorskie","1997 ",12000,23
+"456",11700,"Gdańsk","Pomorskie","2008 ",55404,12
+"457",8900,"Proszowice","Małopolskie","2014 ",3336,6
+"458",17900,"Człuchów","Pomorskie","2019 ",2,1
+"459",6399,"Ruda Śląska","Śląskie","2019 ",1,1
+"460",8900,"Zbąszyń","Wielkopolskie","2018 ",1472,2
+"461",10500,"Bolesławiec","Dolnośląskie","2017 ",8900,3
+"462",7800,"Gliwice","Śląskie","2019 ",1,1
+"463",9899,"Gliwice","Śląskie","2020 ",1,0
+"464",18700,"Warszawa","Mazowieckie","2020 ",1,0
+"465",9900,"Błędów","Mazowieckie","2013 ",30200,7
+"466",7899,"Gliwice","Śląskie","2019 ",1,1
+"467",15900,"Gliwice","Śląskie","2019 ",1,1
+"468",7199,"Gliwice","Śląskie","2019 ",1,1
+"469",8300,"Krośniewice","Łódzkie","1998 ",13034,22
+"470",2499,"Przemyśl","Podkarpackie","2020 ",1,0
+"471",16990,"Tarnobrzeg","Podkarpackie","2019 ",1,1
+"472",9400,"Bilcza","Świętokrzyskie","2013 ",33849,7
+"473",6999,"Częstochowa","Śląskie","2005 ",16000,15
+"474",18700,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"475",18700,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"476",12400,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"477",7500,"Wysokie Mazowieckie","Podlaskie","2015 ",18000,5
+"478",7999,"Tarnowskie Góry","Śląskie","2015 ",28000,5
+"479",6999,"Tarnowskie Góry","Śląskie","2016 ",25000,4
+"480",19900,"Kłodzko","Dolnośląskie","2019 ",1,1
+"481",6900,"Tarnowskie Góry","Śląskie","2002 ",20000,18
+"482",13749,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"483",13600,"Dąbrowa Górnicza","Śląskie","2002 ",30000,18
+"484",17000,"Dąbrowa Górnicza","Śląskie","2008 ",13000,12
+"485",8900,"Białystok","Podlaskie","2019 ",1,1
+"486",9600,"Tarnów","Małopolskie","2019 ",1,1
+"487",7990,"Tarnów","Małopolskie","2019 ",1,1
+"488",9199,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"489",7600,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"490",8400,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"491",9599,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"492",12999,"Tarnowskie Góry","Śląskie","2005 ",2000,15
+"493",5299,"Częstochowa","Śląskie","2019 ",1,1
+"494",8400,"Częstochowa","Śląskie","2020 ",1,0
+"495",6299,"Częstochowa","Śląskie","2019 ",1,1
+"496",5599,"Częstochowa","Śląskie","2019 ",1,1
+"497",10999,"Częstochowa","Śląskie","2020 ",1,0
+"498",10499,"Częstochowa","Śląskie","2019 ",1,1
+"499",9499,"Częstochowa","Śląskie","2019 ",1,1
+"500",7199,"Częstochowa","Śląskie","2019 ",1,1
+"501",7899,"Częstochowa","Śląskie","2019 ",1,1
+"502",14400,"Dąbrowa Górnicza","Śląskie","2001 ",8000,19
+"503",4500,"Kępno","Wielkopolskie","2015 ",600,5
+"504",11900,"Białaczów","Łódzkie","2002 ",17000,18
+"505",21900,"Słupno","Mazowieckie","2020 ",1,0
+"506",18100,"Wrocław","Dolnośląskie","2020 ",1,0
+"507",6700,"Hańsk Pierwszy","Lubelskie","2002 ",16000,18
+"508",12990,"Warszawa","Mazowieckie","2017 ",11000,3
+"509",17990,"Chorzów","Śląskie","2019 ",1,1
+"510",14500,"Dąbrowa Górnicza","Śląskie","2000 ",13000,20
+"511",7990,"Tarnów","Małopolskie","2019 ",1,1
+"512",8500,"Rzeszów","Podkarpackie","2013 ",31000,7
+"513",7200,"Tarnów","Małopolskie","2019 ",1,1
+"514",10200,"Pietrzykowice","Dolnośląskie","2020 ",1,0
+"515",5599,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"516",8999,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"517",6400,"Rzepinek","Świętokrzyskie","2009 ",12090,11
+"518",6199,"Ryki","Lubelskie","2020 ",1,0
+"519",4788,"Radom","Mazowieckie","2008 ",21200,12
+"520",10500,"Pilchowice","Śląskie","2002 ",40625,18
+"521",4800,"Złotoryja","Dolnośląskie","2008 ",21000,12
+"522",11900,"Pilchowice","Śląskie","2003 ",33873,17
+"523",9900,"Pilchowice","Śląskie","2009 ",31516,11
+"524",12900,"Zambrów","Podlaskie","2005 ",7901,15
+"525",5500,"Kościerzyna","Pomorskie","2004 ",5,16
+"526",7000,"Uraz","Dolnośląskie","2002 ",30801,18
+"527",16900,"Warszawa","Mazowieckie","2020 ",1,0
+"528",16900,"Warszawa","Mazowieckie","2020 ",1,0
+"529",8000,"Przykona","Wielkopolskie","2009 ",22210,11
+"530",14990,"Łódź","Łódzkie","2019 ",1,1
+"531",17990,"Warszawa","Mazowieckie","2019 ",1,1
+"532",15999,"Drzewica","Łódzkie","2016 ",120,4
+"533",7750,"Warszawa","Mazowieckie","2003 ",35450,17
+"534",14500,"Ożarów","Łódzkie","2019 ",18703,1
+"535",14800,"Łęg Starościński","Mazowieckie","2015 ",122,5
+"536",6500,"Gdańsk","Pomorskie","2002 ",194,18
+"537",6800,"Lublin","Lubelskie","2012 ",16000,8
+"538",12999,"Kamieńsk","Łódzkie","2010 ",16100,10
+"539",5499,"Rydułtowy","Śląskie","2019 ",1,1
+"540",12500,"Poznań","Wielkopolskie","2017 ",340,3
+"541",9699,"Kraków","Małopolskie","2019 ",1,1
+"542",4300,"Wrocław","Dolnośląskie","2003 ",24000,17
+"543",22900,"Rzeszów","Podkarpackie","2019 ",1,1
+"544",10900,"Jasło","Podkarpackie","2016 ",11000,4
+"545",3790,"Bodzentyn","Świętokrzyskie","2009 ",22344,11
+"546",3590,"Bodzentyn","Świętokrzyskie","2015 ",6054,5
+"547",7700,"Chojnice","Pomorskie","2011 ",23200,9
+"548",7999,"Kutno","Łódzkie","2019 ",1,1
+"549",7000,"Zawiercie","Śląskie","2013 ",12817,7
+"550",16990,"Tarnobrzeg","Podkarpackie","2019 ",1,1
+"551",16500,"Poznań","Wielkopolskie","2019 ",183,1
+"552",10200,"Błaszki","Łódzkie","2020 ",1,0
+"553",8599,"Błaszki","Łódzkie","2019 ",1,1
+"554",10999,"Błaszki","Łódzkie","2020 ",1,0
+"555",12900,"Ożarów Mazowiecki","Mazowieckie","2018 ",3273,2
+"556",7150,"Ścinawa","Dolnośląskie","2001 ",32000,19
+"557",10600,"Elbląg","Warmińsko-mazurskie","1999 ",28000,21
+"558",8000,"Bilcza","Świętokrzyskie","2002 ",32284,18
+"559",6900,"Boguchwała","Podkarpackie","2008 ",23422,12
+"560",11900,"Dębe Wielkie","Mazowieckie","2002 ",24000,18
+"561",6666,"Kokoszkowy","Pomorskie","2004 ",8123,16
+"562",5999,"Kokoszkowy","Pomorskie","2008 ",29123,12
+"563",16000,"Częstochowa","Śląskie","2016 ",18816,4
+"564",6299,"Tarnowskie Góry","Śląskie","2019 ",1,1
+"565",5799,"Tarnowskie Góry","Śląskie","2019 ",1,1
+"566",10900,"Stargard Szczeciński","Zachodniopomorskie","2000 ",20000,20
+"567",19900,"Radom","Mazowieckie","2018 ",1,2
+"568",14400,"Warszawa","Mazowieckie","2019 ",1,1
+"569",11999,"Kokoszkowy","Pomorskie","1999 ",8874,21
+"570",18900,"Tarnów","Małopolskie","2019 ",1,1
+"571",14500,"Dąbrowa Górnicza","Śląskie","2001 ",15000,19
+"572",14800,"Poznań","Wielkopolskie","2016 ",5998,4
+"573",17500,"Dąbrowa Górnicza","Śląskie","2000 ",8000,20
+"574",12400,"Dąbrowa Górnicza","Śląskie","1999 ",23000,21
+"575",15000,"Dąbrowa Górnicza","Śląskie","2001 ",9000,19
+"576",12500,"Dąbrowa Górnicza","Śląskie","1999 ",17000,21
+"577",16500,"Dąbrowa Górnicza","Śląskie","2006 ",12000,14
+"578",13750,"Dąbrowa Górnicza","Śląskie","2003 ",13000,17
+"579",16500,"Dąbrowa Górnicza","Śląskie","2006 ",12000,14
+"580",10499,"Ruda Śląska","Śląskie","1999 ",32000,21
+"581",8799,"Kraków","Małopolskie","2019 ",1,1
+"582",10499,"Radom","Mazowieckie","2016 ",10000,4
+"583",5999,"Radom","Mazowieckie","2006 ",25000,14
+"584",13999,"Radom","Mazowieckie","2017 ",5000,3
+"585",10500,"Łomianki","Mazowieckie","2011 ",34689,9
+"586",9700,"Zielona Góra","Lubuskie","2012 ",31500,8
+"587",7990,"Siechnice","Dolnośląskie","2020 ",1200,0
+"588",4600,"Wielogóra","Mazowieckie","1998 ",15000,22
+"589",9500,"Bełżyce","Lubelskie","2009 ",39629,11
+"590",8499,"Czarnków","Wielkopolskie","2020 ",1,0
+"591",19900,"Wrocław","Dolnośląskie","2020 ",1,0
+"592",6199,"Legnica","Dolnośląskie","2020 ",1,0
+"593",16999,"Kraków","Małopolskie","2019 ",1,1
+"594",16000,"Dąbrowa Górnicza","Śląskie","2001 ",9500,19
+"595",5599,"Czarnków","Wielkopolskie","2019 ",1,1
+"596",9999,"Biała Podlaska","Lubelskie","2016 ",6300,4
+"597",9199,"Czarnków","Wielkopolskie","2020 ",1,0
+"598",13999,"Starogard Gdański","Pomorskie","1999 ",6000,21
+"599",6499,"Czarnków","Wielkopolskie","2019 ",1,1
+"600",5199,"Czarnków","Wielkopolskie","2019 ",1,1
+"601",13999,"Starogard Gdański","Pomorskie","2001 ",17000,19
+"602",7800,"Głogów","Dolnośląskie","2003 ",9999,17
+"603",4800,"Pleszew","Wielkopolskie","2005 ",35474,15
+"604",8500,"Iława","Warmińsko-mazurskie","2005 ",29000,15
+"605",14500,"Kraków","Małopolskie","2019 ",1,1
+"606",15500,"Kraków","Małopolskie","2019 ",1,1
+"607",7600,"Białystok","Podlaskie","2018 ",1,2
+"608",5999,"Kraków","Małopolskie","2020 ",1,0
+"609",11200,"Iława","Warmińsko-mazurskie","2007 ",27000,13
+"610",7999,"Kraków","Małopolskie","2018 ",1,2
+"611",9199,"Ruda Śląska","Śląskie","2020 ",1,0
+"612",13800,"Warszawa","Mazowieckie","2019 ",2400,1
+"613",5899,"Kraków","Małopolskie","2019 ",1,1
+"614",8499,"Kraków","Małopolskie","2020 ",1,0
+"615",7999,"Kraków","Małopolskie","2019 ",267,1
+"616",8999,"Rawa Mazowiecka","Łódzkie","2004 ",33147,16
+"617",10500,"Rawa Mazowiecka","Łódzkie","2016 ",42380,4
+"618",17500,"Warszawa","Mazowieckie","2019 ",7200,1
+"619",5300,"Pułtusk","Mazowieckie","2006 ",35157,14
+"620",13749,"Dulowa","Małopolskie","2019 ",1,1
+"621",7999,"Poznań","Wielkopolskie","2009 ",48000,11
+"622",19900,"Łódź","Łódzkie","2020 ",1,0
+"623",10900,"Koźmin Wielkopolski","Wielkopolskie","1999 ",9477,21
+"624",21500,"Warszawa","Mazowieckie","1975 ",6000,45
+"625",13999,"Radom","Mazowieckie","2018 ",1400,2
+"626",2500,"Szczecin","Zachodniopomorskie","1998 ",39000,22
+"627",7500,"Balin","Małopolskie","2016 ",2057,4
+"628",8399,"Nakło nad Notecią","Kujawsko-pomorskie","2020 ",1,0
+"629",6399,"Katowice","Śląskie","2019 ",1,1
+"630",10500,"Dobrodzień","Opolskie","2001 ",19900,19
+"631",7500,"Inowrocław","Kujawsko-pomorskie","2013 ",21125,7
+"632",5499,"Ruda Śląska","Śląskie","2019 ",1,1
+"633",9599,"Barlinek","Zachodniopomorskie","2020 ",1,0
+"634",4750,"Ścinawa","Dolnośląskie","2004 ",18000,16
+"635",11900,"Wejherowo-Nanice","Pomorskie","2000 ",38929,20
+"636",20990,"Słupno","Mazowieckie","2020 ",1,0
+"637",15900,"Łódź","Łódzkie","2019 ",1,1
+"638",4999,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"639",9299,"Nakło nad Notecią","Kujawsko-pomorskie","2020 ",1,0
+"640",5999,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"641",5899,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"642",6999,"Warszawa","Mazowieckie","2020 ",1,0
+"643",19200,"Warszawa","Mazowieckie","2020 ",1,0
+"644",15000,"Gdynia","Pomorskie","2019 ",2000,1
+"645",6999,"Myszków","Śląskie","2017 ",1,3
+"646",5999,"Nowy Tomyśl","Wielkopolskie","2020 ",1,0
+"647",6199,"Nowy Tomyśl","Wielkopolskie","2020 ",1,0
+"648",7600,"Grudziądz","Kujawsko-pomorskie","2020 ",1,0
+"649",7990,"Grudziądz","Kujawsko-pomorskie","2019 ",1,1
+"650",4500,"Koszalin","Zachodniopomorskie","2010 ",3000,10
+"651",5999,"Łagów","Świętokrzyskie","2007 ",12800,13
+"652",8600,"Łagów","Świętokrzyskie","2015 ",19489,5
+"653",16200,"Białystok","Podlaskie","2019 ",8578,1
+"654",16990,"Łódź","Łódzkie","2019 ",1,1
+"655",11500,"Rydułtowy","Śląskie","1999 ",23500,21
+"656",6499,"Mielec","Podkarpackie","2019 ",1,1
+"657",8900,"Pilchowice","Śląskie","2018 ",12329,2
+"658",5850,"Szczecin","Zachodniopomorskie","2019 ",1,1
+"659",6910,"Warszawa","Mazowieckie","2017 ",1,3
+"660",5999,"Warszawa","Mazowieckie","2020 ",1,0
+"661",7999,"Warszawa","Mazowieckie","2018 ",1,2
+"662",6199,"Warszawa","Mazowieckie","2020 ",1,0
+"663",7999,"Warszawa","Mazowieckie","2019 ",1,1
+"664",12400,"Bielsko-Biała","Śląskie","2019 ",3300,1
+"665",5999,"Ryki","Lubelskie","2019 ",1,1
+"666",10699,"Kobyłka","Mazowieckie","2019 ",1,1
+"667",16990,"Kłodawa","Lubuskie","2019 ",1,1
+"668",5800,"Kamienna Wola","Mazowieckie","1997 ",5000,23
+"669",11200,"Garwolin","Mazowieckie","2015 ",18000,5
+"670",8364,"Ostrołęka","Mazowieckie","2019 ",1,1
+"671",14500,"Dąbrowa Górnicza","Śląskie","2001 ",15000,19
+"672",3800,"Bagienki","Podlaskie","2016 ",6900,4
+"673",17900,"Tarnów","Małopolskie","2019 ",1,1
+"674",6499,"Rydułtowy","Śląskie","2019 ",1,1
+"675",5900,"Otwock","Mazowieckie","2019 ",1170,1
+"676",4999,"Bolesławiec","Dolnośląskie","2015 ",8500,5
+"677",11000,"Rzeszów","Podkarpackie","2017 ",11981,3
+"678",20990,"Warszawa","Mazowieckie","2020 ",1,0
+"679",5299,"Ryki","Lubelskie","2019 ",1,1
+"680",12899,"Gliwice","Śląskie","2018 ",1,2
+"681",16900,"Tarnów","Małopolskie","2019 ",1,1
+"682",5999,"Wrocław","Dolnośląskie","2019 ",1,1
+"683",11000,"Lublin","Lubelskie","2014 ",15500,6
+"684",16500,"Piła","Wielkopolskie","1999 ",26379,21
+"685",5990,"Żyrardów","Mazowieckie","1999 ",16300,21
+"686",12700,"Dąbrowa Górnicza","Śląskie","2000 ",33000,20
+"687",14000,"Gniezno","Wielkopolskie","2016 ",18000,4
+"688",8999,"Bolesławiec","Dolnośląskie","2012 ",14000,8
+"689",10999,"Bolesławiec","Dolnośląskie","2016 ",13000,4
+"690",6200,"Zdziarzec","Podkarpackie","1998 ",26000,22
+"691",13600,"Wejherowo","Pomorskie","2000 ",10790,20
+"692",17400,"Poznań","Wielkopolskie","2018 ",85,2
+"693",13500,"Warszawa","Mazowieckie","2019 ",1,1
+"694",14500,"Warszawa","Mazowieckie","2019 ",1,1
+"695",15500,"Połczyn-Zdrój","Zachodniopomorskie","2006 ",7500,14
+"696",12500,"Radom","Mazowieckie","2016 ",12000,4
+"697",12000,"Zielona Góra","Lubuskie","2015 ",9300,5
+"698",9900,"Sulechów","Lubuskie","2003 ",17000,17
+"699",8399,"Rzeszów","Podkarpackie","2019 ",1,1
+"700",6699,"Rzeszów","Podkarpackie","2018 ",1,2
+"701",7100,"Wrocław","Dolnośląskie","2019 ",1,1
+"702",18700,"Łódź","Łódzkie","2020 ",1,0
+"703",5599,"Wrocław","Dolnośląskie","2019 ",1,1
+"704",7250,"Jasienie","Opolskie","2014 ",7100,6
+"705",17000,"Inowrocław","Kujawsko-pomorskie","2018 ",9082,2
+"706",5210,"Szczecin","Zachodniopomorskie","2019 ",1,1
+"707",11900,"Szczecin","Zachodniopomorskie","2020 ",1,0
+"708",11200,"Wyszogród","Mazowieckie","2015 ",13724,5
+"709",13500,"Pilchowice","Śląskie","2013 ",21516,7
+"710",10900,"Dobrodzień","Opolskie","1999 ",46000,21
+"711",18700,"Częstochowa","Śląskie","2020 ",1,0
+"712",9200,"Tarnów","Małopolskie","2020 ",1,0
+"713",9200,"Błaszki","Łódzkie","2020 ",1,0
+"714",8400,"Błaszki","Łódzkie","2020 ",1,0
+"715",6999,"Błaszki","Łódzkie","2019 ",1,1
+"716",7990,"Błaszki","Łódzkie","2019 ",1,1
+"717",6499,"Błaszki","Łódzkie","2019 ",1,1
+"718",9700,"Starogard Gdański","Pomorskie","2004 ",11627,16
+"719",5900,"Lipno","Kujawsko-pomorskie","2017 ",6500,3
+"720",13200,"Pilchowice","Śląskie","2017 ",16114,3
+"721",18100,"Wrocław","Dolnośląskie","2020 ",1,0
+"722",18100,"Wrocław","Dolnośląskie","2020 ",1,0
+"723",7600,"Błaszki","Łódzkie","2020 ",1,0
+"724",11900,"Częstochowa","Śląskie","2015 ",20582,5
+"725",9199,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"726",18700,"Warszawa","Mazowieckie","2019 ",1,1
+"727",12400,"Warszawa","Mazowieckie","2020 ",1,0
+"728",21900,"Szczecin","Zachodniopomorskie","2020 ",1,0
+"729",11000,"Poznań","Wielkopolskie","2018 ",1,2
+"730",6949,"Swarzędz","Wielkopolskie","2019 ",1,1
+"731",4990,"Żyrardów","Mazowieckie","2006 ",27400,14
+"732",21900,"Szczecin","Zachodniopomorskie","2020 ",1,0
+"733",12499,"Bielsko-Biała","Śląskie","2019 ",5,1
+"734",12499,"Bielsko-Biała","Śląskie","2019 ",5,1
+"735",11499,"Bielsko-Biała","Śląskie","2019 ",5,1
+"736",14900,"Poznań","Wielkopolskie","2017 ",25,3
+"737",11300,"Poznań","Wielkopolskie","2019 ",1,1
+"738",11300,"Poznań","Wielkopolskie","2019 ",1,1
+"739",5999,"Wrocław","Dolnośląskie","2019 ",1,1
+"740",6599,"Wrocław","Dolnośląskie","2019 ",1,1
+"741",5990,"Wrocław","Dolnośląskie","2019 ",1,1
+"742",3399,"Wrocław","Dolnośląskie","2020 ",1,0
+"743",2190,"Wrocław","Dolnośląskie","2020 ",1,0
+"744",2874,"Wrocław","Dolnośląskie","2020 ",1,0
+"745",3699,"Wrocław","Dolnośląskie","2020 ",1,0
+"746",3899,"Wrocław","Dolnośląskie","2020 ",1,0
+"747",3624,"Wrocław","Dolnośląskie","2018 ",1,2
+"748",6699,"Wrocław","Dolnośląskie","2019 ",1,1
+"749",7990,"Wrocław","Dolnośląskie","2019 ",1,1
+"750",8790,"Wrocław","Dolnośląskie","2020 ",1,0
+"751",11300,"Poznań","Wielkopolskie","2019 ",1,1
+"752",18100,"Poznań","Wielkopolskie","2020 ",1,0
+"753",18100,"Poznań","Wielkopolskie","2020 ",1,0
+"754",5900,"Otwock","Mazowieckie","2019 ",1170,1
+"755",7299,"Mielec","Podkarpackie","2019 ",1,1
+"756",9199,"Poznań","Wielkopolskie","2020 ",1,0
+"757",10999,"Poznań","Wielkopolskie","2020 ",1,0
+"758",2899,"Wrocław","Dolnośląskie","2020 ",1,0
+"759",3399,"Wrocław","Dolnośląskie","2020 ",1,0
+"760",3799,"Wrocław","Dolnośląskie","2020 ",1,0
+"761",9199,"Wrocław","Dolnośląskie","2019 ",1,1
+"762",2249,"Przemyśl","Podkarpackie","2020 ",1,0
+"763",3199,"Przemyśl","Podkarpackie","2020 ",1,0
+"764",1999,"Przemyśl","Podkarpackie","2020 ",1,0
+"765",8800,"Zabrze","Śląskie","1999 ",36900,21
+"766",10750,"Kielce","Świętokrzyskie","2000 ",10750,20
+"767",5600,"Skierniewice","Łódzkie","2019 ",1,1
+"768",3799,"Lublin","Lubelskie","2020 ",1,0
+"769",5500,"Warszawa","Mazowieckie","2009 ",49500,11
+"770",7200,"Baranowo","Wielkopolskie","2019 ",1,1
+"771",9200,"Baranowo","Wielkopolskie","2020 ",1,0
+"772",18700,"Szczecin","Zachodniopomorskie","2020 ",5,0
+"773",18700,"Rzeszów","Podkarpackie","2020 ",1,0
+"774",5299,"Nowy Tomyśl","Wielkopolskie","2019 ",1,1
+"775",6299,"Nowy Tomyśl","Wielkopolskie","2019 ",1,1
+"776",15500,"Rzeszów","Podkarpackie","2019 ",1,1
+"777",18100,"Poznań","Wielkopolskie","2020 ",1,0
+"778",17700,"Poznań","Wielkopolskie","2020 ",1,0
+"779",7900,"Warszawa","Mazowieckie","2017 ",10000,3
+"780",16600,"Poznań","Wielkopolskie","2020 ",1,0
+"781",8500,"Bojszowy Nowe","Śląskie","2002 ",30950,18
+"782",8600,"Krotoszyn","Wielkopolskie","2001 ",18700,19
+"783",9200,"Toruń","Kujawsko-pomorskie","2020 ",1,0
+"784",5900,"Szemud","Pomorskie","2014 ",23800,6
+"785",9500,"Kraków","Małopolskie","2007 ",45000,13
+"786",5600,"Zbąszyń","Wielkopolskie","2016 ",12476,4
+"787",11500,"Borek","Małopolskie","2010 ",31000,10
+"788",13500,"Bielsko-Biała","Śląskie","2019 ",1,1
+"789",13500,"Bielsko-Biała","Śląskie","2019 ",1,1
+"790",15500,"Bielsko-Biała","Śląskie","2019 ",1,1
+"791",14500,"Bielsko-Biała","Śląskie","2019 ",1,1
+"792",5899,"Mielec","Podkarpackie","2019 ",1,1
+"793",9200,"Mielec","Podkarpackie","2020 ",1,0
+"794",8899,"Zagórz","Podkarpackie","2020 ",1,0
+"795",5800,"Białobrzegi","Mazowieckie","2000 ",24599,20
+"796",11900,"Warszawa","Mazowieckie","2020 ",1,0
+"797",8799,"Tarnów","Małopolskie","2018 ",1,2
+"798",7499,"Rydułtowy","Śląskie","2020 ",1,0
+"799",5399,"Rydułtowy","Śląskie","2019 ",1,1
+"800",4599,"Rydułtowy","Śląskie","2019 ",1,1
+"801",8649,"Rydułtowy","Śląskie","2020 ",1,0
+"802",18700,"Warszawa","Mazowieckie","2020 ",1,0
+"803",12400,"Warszawa","Mazowieckie","2020 ",1,0
+"804",15900,"Warszawa","Mazowieckie","2020 ",1,0
+"805",8999,"Warszawa","Mazowieckie","2019 ",1,1
+"806",4900,"Tarnowskie Góry","Śląskie","2012 ",17000,8
+"807",17000,"Białystok","Podlaskie","2015 ",5295,5
+"808",6200,"Gniezno","Wielkopolskie","2000 ",8000,20
+"809",9000,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"810",18999,"Lidzbark Warmiński","Warmińsko-mazurskie","2019 ",482,1
+"811",4799,"Warszawa","Mazowieckie","2019 ",3300,1
+"812",19900,"Żyrardów","Mazowieckie","2019 ",1,1
+"813",5500,"Gocław","Mazowieckie","1994 ",9999,26
+"814",17900,"Rzeszów","Podkarpackie","2019 ",1,1
+"815",6500,"Chełm","Lubelskie","2012 ",23600,8
+"816",16900,"Wrocław","Dolnośląskie","2000 ",1,20
+"817",16900,"Warszawa","Mazowieckie","2000 ",1000,20
+"818",6890,"Toruń","Kujawsko-pomorskie","2020 ",1,0
+"819",17990,"Szczecin","Zachodniopomorskie","2019 ",1,1
+"820",6900,"Częstochowa","Śląskie","2013 ",26200,7
+"821",5299,"Warszawa","Mazowieckie","2019 ",1,1
+"822",8390,"Mielec","Podkarpackie","2020 ",12,0
+"823",11600,"Wejherowo-Nanice","Pomorskie","2003 ",22699,17
+"824",18700,"Łódź","Łódzkie","2020 ",1,0
+"825",14600,"Łódź","Łódzkie","2020 ",1,0
+"826",14600,"Łódź","Łódzkie","2019 ",1,1
+"827",9900,"Świebodzin","Lubuskie","2002 ",14500,18
+"828",6499,"Czempiń","Wielkopolskie","2019 ",5000,1
+"829",18700,"Gdańsk","Pomorskie","2020 ",1,0
+"830",8610,"Ostrołęka","Mazowieckie","2019 ",1,1
+"831",8000,"Kraków","Małopolskie","2014 ",9500,6
+"832",8000,"Kraków","Małopolskie","2015 ",20883,5
+"833",8500,"Kraków","Małopolskie","2016 ",10800,4
+"834",9000,"Kraków","Małopolskie","2017 ",9000,3
+"835",6799,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"836",12900,"Złotniki","Wielkopolskie","2018 ",18229,2
+"837",10200,"Gliwice","Śląskie","2020 ",1,0
+"838",9000,"Żagań","Lubuskie","2005 ",45000,15
+"839",7900,"Zbąszyń","Wielkopolskie","2018 ",3713,2
+"840",5299,"Nowy Tomyśl","Wielkopolskie","2019 ",1,1
+"841",3800,"Tomaszów Mazowiecki","Łódzkie","2003 ",10000,17
+"842",14400,"Ostrów Wielkopolski","Wielkopolskie","2019 ",14,1
+"843",10500,"Limanowa","Małopolskie","2016 ",35000,4
+"844",9499,"Częstochowa","Śląskie","2013 ",17800,7
+"845",14800,"Wolbrom","Małopolskie","2002 ",34050,18
+"846",10500,"Limanowa","Małopolskie","2014 ",16100,6
+"847",8500,"Limanowa","Małopolskie","2012 ",27600,8
+"848",10500,"Limanowa","Małopolskie","2013 ",35000,7
+"849",16900,"Gdańsk","Pomorskie","2000 ",1,20
+"850",16900,"Kraków","Małopolskie","2000 ",1,20
+"851",5599,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"852",8700,"Kraków","Małopolskie","2012 ",12500,8
+"853",16900,"Katowice","Śląskie","2020 ",1,0
+"854",21900,"Łódź","Łódzkie","2020 ",1,0
+"855",4500,"Dobrodzień","Opolskie","2005 ",10000,15
+"856",18000,"Dobrodzień","Opolskie","2000 ",5591,20
+"857",7999,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"858",10500,"Dobrodzień","Opolskie","2001 ",31000,19
+"859",5799,"Ryki","Lubelskie","2019 ",1,1
+"860",6299,"Ryki","Lubelskie","2019 ",1,1
+"861",22900,"Warszawa","Mazowieckie","2019 ",1,1
+"862",12900,"Wrocław","Dolnośląskie","2009 ",20000,11
+"863",7626,"Ostrołęka","Mazowieckie","2017 ",1,3
+"864",15000,"Wodzisław Śląski","Śląskie","1999 ",38843,21
+"865",12400,"Kraków","Małopolskie","2020 ",1,0
+"866",18700,"Kraków","Małopolskie","2020 ",1,0
+"867",10300,"Tarnowskie Góry","Śląskie","2016 ",30000,4
+"868",6642,"Ostrołęka","Mazowieckie","2019 ",1,1
+"869",13900,"Kutno","Łódzkie","2006 ",38000,14
+"870",5700,"Głubczyce","Opolskie","2005 ",7960,15
+"871",17900,"Wrocław","Dolnośląskie","2019 ",1,1
+"872",22900,"Wrocław","Dolnośląskie","2020 ",1,0
+"873",12999,"Gliwice","Śląskie","2019 ",1,1
+"874",7800,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"875",14900,"Szczecin","Zachodniopomorskie","2019 ",50,1
+"876",8500,"Kielce","Świętokrzyskie","2002 ",8000,18
+"877",18700,"Łódź","Łódzkie","2020 ",1,0
+"878",6399,"Błaszki","Łódzkie","2019 ",1,1
+"879",17990,"Wejherowo-Nanice","Pomorskie","2018 ",1,2
+"880",10999,"Opole","Opolskie","2020 ",1,0
+"881",6800,"Elbląg","Warmińsko-mazurskie","1999 ",20246,21
+"882",11500,"Dębe Wielkie","Mazowieckie","2002 ",16500,18
+"883",8299,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"884",7799,"Mielec","Podkarpackie","2019 ",1,1
+"885",8990,"Toruń","Kujawsko-pomorskie","2019 ",1,1
+"886",3200,"Jasło","Podkarpackie","2004 ",10000,16
+"887",7299,"Barlinek","Zachodniopomorskie","2019 ",1,1
+"888",5400,"Skierniewice","Łódzkie","2018 ",1,2
+"889",9700,"Skierniewice","Łódzkie","2019 ",1,1
+"890",20990,"Łódź","Łódzkie","2019 ",1,1
+"891",11900,"Łódź","Łódzkie","2020 ",1,0
+"892",7300,"Elbląg","Warmińsko-mazurskie","2005 ",21924,15
+"893",12000,"Zamość","Kujawsko-pomorskie","2010 ",22400,10
+"894",19900,"Warszawa","Mazowieckie","2018 ",1,2
+"895",14900,"Komorów","Lubuskie","2016 ",101,4
+"896",5000,"Warszawa","Mazowieckie","2005 ",27994,15
+"897",6000,"Uraz","Dolnośląskie","1997 ",40351,23
+"898",6000,"Stalowa Wola","Podkarpackie","1976 ",15000,44
+"899",15950,"Łódź","Łódzkie","2019 ",1,1
+"900",5200,"Zielonki","Małopolskie","2006 ",7000,14
+"901",15000,"Dąbrowa Górnicza","Śląskie","2000 ",12000,20
+"902",12600,"Dąbrowa Górnicza","Śląskie","2002 ",18000,18
+"903",30996,"Elbląg","Warmińsko-mazurskie","2019 ",300,1
+"904",10000,"Dąbrowa Górnicza","Śląskie","2006 ",5000,14
+"905",9200,"Rzeszów","Podkarpackie","2014 ",23500,6
+"906",15500,"Kołobrzeg","Zachodniopomorskie","2016 ",5707,4
+"907",8200,"Rzeszów","Podkarpackie","2010 ",32000,10
+"908",13000,"Dąbrowa Górnicza","Śląskie","2003 ",8800,17
+"909",6300,"Szynwałd","Małopolskie","1998 ",26848,22
+"910",6800,"Warszawa","Mazowieckie","1999 ",27000,21
+"911",5500,"Łask","Łódzkie","2015 ",77,5
+"912",9700,"Iława","Warmińsko-mazurskie","2007 ",14500,13
+"913",11000,"Częstochowa","Śląskie","2016 ",35390,4
+"914",9000,"Częstochowa","Śląskie","2013 ",45004,7
+"915",5899,"Pietrzykowice","Dolnośląskie","2019 ",1,1
+"916",18900,"Szczecin","Zachodniopomorskie","2020 ",1,0
+"917",6999,"Rzeszów","Podkarpackie","2008 ",19403,12
+"918",5700,"Sarbinowo","Wielkopolskie","2019 ",180,1
+"919",15500,"Rzeszów","Podkarpackie","2019 ",1,1
+"920",13500,"Rzeszów","Podkarpackie","2019 ",1,1
+"921",10500,"Starogard Gdański","Pomorskie","1999 ",14000,21
+"922",9500,"Starogard Gdański","Pomorskie","2011 ",25000,9
+"923",10400,"Szczecin","Zachodniopomorskie","2014 ",8000,6
+"924",19900,"Wejherowo-Nanice","Pomorskie","2015 ",1082,5
+"925",8799,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"926",6500,"Poznań","Wielkopolskie","2017 ",1600,3
+"927",5599,"Nakło nad Notecią","Kujawsko-pomorskie","2019 ",1,1
+"928",12400,"Siedlce","Mazowieckie","2020 ",1,0
+"929",12500,"Kraków","Małopolskie","2008 ",20399,12
+"930",5999,"Kokoszkowy","Pomorskie","1996 ",27123,24
+"931",22900,"Gdańsk","Pomorskie","2019 ",1,1
+"932",9200,"Tarnów","Małopolskie","2019 ",1,1
+"933",7800,"Tarnów","Małopolskie","2019 ",1,1
+"934",10900,"Tarnów","Małopolskie","2018 ",3000,2
+"935",5500,"Grodzisk Mazowiecki","Mazowieckie","2005 ",6974,15
+"936",2999,"Gorzów Wielkopolski","Lubuskie","2015 ",2761,5
+"937",5700,"Olsztynek","Warmińsko-mazurskie","2010 ",40000,10
+"938",17990,"Tarnobrzeg","Podkarpackie","2019 ",1,1
+"939",6999,"Kokoszkowy","Pomorskie","1997 ",27000,23
+"940",7900,"Grzmiąca","Zachodniopomorskie","2005 ",30300,15
+"941",6900,"Chrzanów","Małopolskie","1996 ",50,24
+"942",9700,"Dobroń","Łódzkie","2017 ",6375,3
+"943",17700,"Kłodzko","Dolnośląskie","2019 ",1,1
+"944",34900,"Myślenice","Małopolskie","2020 ",1,0
+"945",34400,"Myślenice","Małopolskie","2020 ",1,0
+"946",22290,"Myślenice","Małopolskie","2020 ",1,0
+"947",28500,"Myślenice","Małopolskie","2019 ",1,1
+"948",18700,"Siedlce","Mazowieckie","2020 ",1,0
+"949",18700,"Olsztyn","Warmińsko-mazurskie","2020 ",1,0
+"950",12550,"Warszawa","Mazowieckie","2016 ",5372,4
+"951",19900,"Łódź","Łódzkie","2018 ",1,2
+"952",3500,"Skoczów","Śląskie","2019 ",1,1
+"953",4400,"Skoczów","Śląskie","2019 ",1,1
+"954",7300,"Nysa","Opolskie","2006 ",44700,14
+"955",9500,"Stalowa Wola","Podkarpackie","1999 ",15000,21
+"956",10200,"Włocławek","Kujawsko-pomorskie","2015 ",3674,5
+"957",18990,"Ostrzeszów","Wielkopolskie","1970 ",14700,50
+"958",8100,"Wieliczka","Małopolskie","2019 ",2200,1
+"959",7200,"Hucina","Podkarpackie","2015 ",3240,5
+"960",6200,"Konin","Wielkopolskie","2000 ",14300,20
+"961",5400,"Bielsko-Biała","Śląskie","2010 ",30000,10
+"962",4900,"Mieczewo","Wielkopolskie","2014 ",4370,6
+"963",9000,"Mysłakowice","Dolnośląskie","2012 ",1400,8
+"964",9999,"Zielona Góra","Lubuskie","2018 ",6744,2
+"965",7250,"Mokronos Górny","Dolnośląskie","2013 ",13000,7
+"966",3399,"Lublin","Lubelskie","2019 ",1,1
+"967",6000,"Gdańsk","Pomorskie","2015 ",10293,5
+"968",8700,"Skarżysko-Kamienna","Świętokrzyskie","2009 ",7500,11
+"969",12800,"Zabrze","Śląskie","2005 ",57000,15
+"970",10990,"Żyrardów","Mazowieckie","2016 ",28000,4
+"971",12500,"Siemianowice Śląskie","Śląskie","2000 ",23000,20
+"972",17900,"Łódź","Łódzkie","2020 ",1,0
+"973",5300,"Świątkowa Mała","Podkarpackie","2003 ",30120,17
+"974",6500,"Inowrocław","Kujawsko-pomorskie","2006 ",16250,14
+"975",6200,"Grodzisk Mazowiecki","Mazowieckie","2019 ",1,1
+"976",6800,"Grodzisk Mazowiecki","Mazowieckie","2019 ",1,1
+"977",12700,"Kutno","Łódzkie","2002 ",12300,18
+"978",8900,"Grodzisk Mazowiecki","Mazowieckie","2019 ",1,1
+"979",10900,"Mizerów","Śląskie","2002 ",13000,18
+"980",5200,"Mizerów","Śląskie","2015 ",18000,5
+"981",12400,"Mizerów","Śląskie","2001 ",23000,19
+"982",8900,"Mizerów","Śląskie","2017 ",1300,3
+"983",5400,"Kielce","Świętokrzyskie","2007 ",34090,13
+"984",7500,"Chełmek","Małopolskie","2019 ",2160,1
+"985",8990,"Żyrardów","Mazowieckie","2004 ",27000,16
+"986",9000,"Piekary Śląskie","Śląskie","2014 ",20000,6
+"987",9500,"Gorzów Wielkopolski","Lubuskie","2007 ",44254,13
+"988",7100,"Łańcut","Podkarpackie","2013 ",16151,7
+"989",6250,"Straszyn","Pomorskie","2015 ",7268,5
+"990",7700,"Ostrów Wielkopolski","Wielkopolskie","2013 ",307,7
+"991",6700,"Skierniewice","Łódzkie","2019 ",1,1
+"992",5400,"Kamieniec Ząbkowicki","Dolnośląskie","2005 ",1000,15
+"993",4999,"Radom","Mazowieckie","2008 ",21004,12
+"994",7400,"Warszawa","Mazowieckie","2009 ",30500,11
+"995",15500,"Milanówek","Mazowieckie","2018 ",2320,2
